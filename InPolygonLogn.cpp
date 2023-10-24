@@ -16,7 +16,7 @@ struct Point {
 };
 ll IsPointInside(Point a, Point b,
                  Point c) {  // определение знака поворота ломаной
-  ld q = (b.x - a.x) * (c.y - b.y) - (b.y - a.y) * (c.x - b.x);
+  ld q = cross(c-b, a-c);
   return (q > 0) - (q < 0);  // если отрицательный, то вправо, иначе - влево
 }
 signed main() {
