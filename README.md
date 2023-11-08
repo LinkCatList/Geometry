@@ -2,4 +2,3 @@
 Подробное описание каждого алгоритма можно найти в прикрепленном [pdf-файле](https://github.com/LinkCatList/Geometry/blob/main/Geometry.pdf), если у вас возникли вопросы или нашли ошибку, то пишите мне в [телегу](https://t.me/modnitsakuritsa).    
 ![alt text](https://i.pinimg.com/564x/08/df/33/08df33804eb80f0a25ffffd52296864f.jpg)
 
-https://github.com/LinkCatList/Geometry/blob/main/Geometry.pdf
